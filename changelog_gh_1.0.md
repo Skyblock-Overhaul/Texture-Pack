@@ -116,6 +116,7 @@ Your feedback is important to the SBOV development team. Please leave feedback i
   - Catalyst
   - Grand Experience Bottle
   - Titanic Experience Bottle
+  - Colossal Experience Bottle
 
 ## Tell Us What You Think
 Once again, your feedback is important to the us. Please leave feedback in the [#feedback-and-suggestions](https://discord.com/channels/796144458013081650/797113134581153793) channel. Please report pack bugs in the [#pack-bugs](https://discord.com/channels/796144458013081650/796441594907066378) channel. 
