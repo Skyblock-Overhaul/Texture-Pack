@@ -14,6 +14,7 @@ Your feedback is important to the SBOV development team. Please leave feedback i
   - Textures not final. Please leave feedback. 
 
 #### Armor Icons
+Please note that only armor icon textures have been added. Armor models will be added in a future version. 
 - Added Wise Dragon Armor Icons
 - Added Young Dragon Armor Icons
 - Added Superior Dragon Armor Icons
