@@ -3,7 +3,7 @@
 
 Hi everyone, this update is a big one. The SBOV development team hopes you will enjoy it. 
 
-Starting now, all future items will now have increased support for the Auction House and Bazaar. In many Hypixel Skyblock texture packs, items use to the default vanilla texture in the "create auction" menu and in the "choose buy/sell quantity" menu in the Bazaar. All items added in this version now do not have this issue. However, not all items already in the pack have this support yet. Further support for these items will be added in future pack versions. 
+Starting now, all future items will now have increased support for the Auction House and Bazaar. In many Hypixel Skyblock texture packs, items use their default vanilla texture in the "create auction" and "choose buy/sell quantity" menus in the Auction House and Bazaar. This issue has been resolved for all items added in this version. However, not all items already in the pack have this support yet. Further support for these items will be added in future pack versions. 
 
 Your feedback is important to the SBOV development team. Please leave feedback in the [#feedback-and-suggestions](https://discord.com/channels/796144458013081650/797113134581153793) channel. Please report pack bugs in the [#pack-bugs](https://discord.com/channels/796144458013081650/796441594907066378) channel. 
 
