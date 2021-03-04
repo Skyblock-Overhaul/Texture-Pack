@@ -1,7 +1,0 @@
-Style 1 - Regular Red background, No Backdrop, No Border
-Style 2 - Dark Red Backdrop, Purple Border
-Style 3 - Dark Red Backdrop, Red Border
-Style 4 - Dark Red Backdrop, No Border
-Style 5 - Orange Backdrop, Purple Border
-Style 6 - Orange Backdrop, Red Border
-Style 7 - Orange Backdrop, No Border
