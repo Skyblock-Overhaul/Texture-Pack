@@ -19,10 +19,10 @@ https://skyblock-overhaul.github.io/Website/changelog.html
 - \_stefthedoggo#1698
 - Kaden Campbell#8209
 #### Discord Staff
-- Sporkspoon#5553 (Manager)
-- \_stefthedoggo#1698 (Manager)
-- VAPID Peakz#7506 (Head Admin)
-- NameWasntTaken#6074 (Admin)
+- Sporkspoon#5553 (Art Manager)
+- \_stefthedoggo#1698 (Discord Manager)
+- VAPID Peakz#7506 (Admin)
+- NameWasntTaken#6074 (Head Admin)
 - SeBook#0001 (Moderator)
 - Sir Obsidian#2640 (Moderator)
 - Kaden Campbell#8209 (Moderator)
