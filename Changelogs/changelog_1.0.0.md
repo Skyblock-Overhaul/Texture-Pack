@@ -1,5 +1,5 @@
 
-# Skyblock Overhaul Version gh-1.0 Changelog
+# SkyblockOverhaul 1.0.0 Changelog
 
 Hi everyone, this update is a big one. The SBOV development team hopes you will enjoy it. 
 
