@@ -1,0 +1,12 @@
+**SkyblockOverhaul 1.1.4 Changelog** 
+
+**CHANGES**
+
+**Armor Icons**
+- Changed Wither Armor Icons
+
+**Tell Us What You Think**
+Your feedback is important to the SBOV development team. Please leave feedback in the <#797113134581153793> channel. Please report pack bugs in the <#796441594907066378> channel. 
+
+Best regards,  
+The SBOV development team
