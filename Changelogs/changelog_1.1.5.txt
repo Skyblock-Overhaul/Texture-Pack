@@ -1,0 +1,29 @@
+**SkyblockOverhaul 1.1.5 Changelog** 
+
+**ADDITIONS**
+
+**Voidgloom Seraph**
+- Added Atomsplit Katana
+- Added Gloomlock Grimoire
+- Added Null Atom
+- Added Null Blade
+- Added Null Edge
+- Added Null Ovoid
+- Added Null Sphere
+- Added Raw Soulflow
+- Added Soulflow
+- Added Soulflow Battery
+- Added Soulflow Engine
+- Added Voidedge Katana
+- Added Voidwalker Katana
+
+**CHANGES**
+
+**Voidgloom Seraph**
+- Changed Vorpal Katana
+
+**Tell Us What You Think**
+Your feedback is important to the SBOV development team. Please leave feedback in the <#797113134581153793> channel. Please report pack bugs in the <#796441594907066378> channel. 
+
+Best regards,  
+The SBOV development team
