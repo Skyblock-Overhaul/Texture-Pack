@@ -1,0 +1,18 @@
+{
+	"parent": "builtin/generated",
+    "textures": {
+        "layer0": "./necron_handle"
+    },
+    "display": {
+        "thirdperson": {
+            "rotation": [ -90, 42, 0 ],
+            "translation": [ 0, 1, -2.5 ],
+            "scale": [ 0.55, 0.55, 0.55 ]
+        },
+        "firstperson": {
+            "rotation": [ 0, 225, 61 ],
+            "translation": [ 0.25, 4, 1.75 ],
+            "scale": [ 1.7, 1.7, 1.7 ]
+        }
+    }
+}
